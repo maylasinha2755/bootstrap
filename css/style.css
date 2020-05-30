@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+.navbar {
+  background-color: #8181f7;
+}
+
+.quemsomos {
+  color: #0a205a;
+}
+
+.margin {
+  padding-top: 1.875em;
+  padding-bottom: 3.125em;
+}
+
+.imagemargin {
+  margin-bottom: 1.875em;
+  margin-top: 1.875em;
+}
+
+.parceiros {
+  background-color: #0a205a;
+  color: whitesmoke;
+}
+.rodape {
+  background-color: rgba(10, 6, 82, 0.6);
+  color: whitesmoke;
+  font-size: 16px;
+  padding-top: 3.125em;
+  padding-bottom: 1.875em;
+}
